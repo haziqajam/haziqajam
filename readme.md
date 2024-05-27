@@ -46,12 +46,13 @@ Voice calling agents built using AI transformers, Node.js, Python, and Next.js.
   - Achieved significant improvements in response time and voice quality, providing a competitive edge.
 
 ![Callup.ai](public/callupai.png) <!-- Replace with actual image URL -->
+![Callup.ai](public/airesults.mp3) <!-- Replace with actual image URL -->
+
 #### results
 <audio controls>
     <source src="public/airesults.mp3" type="audio/mp3">
     Your browser does not support the audio tag.
 </audio>
-![Callup.ai](public/airesults.mp3) <!-- Replace with actual image URL -->
 
 
 ---
@@ -126,13 +127,13 @@ Created AI-based models with STT and TTS for real-time results.
   - Implemented Roop and LoRA for enhanced model training and performance.
   - Delivered state-of-the-art AI solutions for various applications.
   - Improved user interaction and engagement with high-fidelity AI models.
+![AI Models D-IDs]("public/aimodel.mp4") Replace with actual image URL
 
 #####  result
 <video controls>
     <source src="/public/aimodel.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-![AI Models D-IDs]("public/aimodel.mp4") Replace with actual image URL
 
 ---
 
