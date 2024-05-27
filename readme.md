@@ -1,6 +1,6 @@
 # Haziq Ajam Malik
 
-Welcome to my GitHub profile! I am a passionate Solutions Architect with a diverse skill set in various cutting-edge technologies. Below is a showcase of some of the projects I've worked on.
+Welcome to my GitHub profile! I have a diverse skill set in various cutting-edge technologies. Below is a showcase of some of the projects I've worked on.
 
 ---
 
@@ -51,6 +51,8 @@ Voice calling agents built using AI transformers, Node.js, Python, and Next.js.
     <source src="public/airesults.mp3" type="audio/mp3">
     Your browser does not support the audio tag.
 </audio>
+![Callup.ai](public/airesults.mp3) <!-- Replace with actual image URL -->
+
 
 ---
 
@@ -130,7 +132,7 @@ Created AI-based models with STT and TTS for real-time results.
     <source src="/public/aimodel.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-<!-- ![AI Models D-IDs]() Replace with actual image URL -->
+![AI Models D-IDs]("public/aimodel.mp4") Replace with actual image URL
 
 ---
 
