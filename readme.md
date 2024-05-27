@@ -47,7 +47,10 @@ Voice calling agents built using AI transformers, Node.js, Python, and Next.js.
 
 ![Callup.ai](public/callupai.png) <!-- Replace with actual image URL -->
 #### results
-![Callup.ai](public/airesults.mp3) 
+<audio controls>
+    <source src="public/airesults.mp3" type="audio/mp3">
+    Your browser does not support the audio tag.
+</audio>
 
 ---
 
@@ -123,7 +126,11 @@ Created AI-based models with STT and TTS for real-time results.
   - Improved user interaction and engagement with high-fidelity AI models.
 
 #####  result
-![AI Models D-IDs](/public/aimodel.mp4) <!-- Replace with actual image URL -->
+<video controls>
+    <source src="/public/aimodel.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<!-- ![AI Models D-IDs]() Replace with actual image URL -->
 
 ---
 
