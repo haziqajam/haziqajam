@@ -59,7 +59,7 @@ Voice calling agents built using AI transformers, Node.js, Python, and Next.js.
 ### Musketeer Chess Neural Architecture
 Developed a native neural architecture similar to Stockfish for Musketeer Chess.
 
-- **Technologies:** [Specify technologies used]
+- **Technologies:** python, llm, llama, neural networks, ai
 - **Key Features:**
   - Implemented advanced neural networks to enhance gameplay strategy and decision-making.
   - Optimized for the unique rules and strategies of Musketeer Chess.
