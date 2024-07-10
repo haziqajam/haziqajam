@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I have a diverse skill set in various cutting-edge
 
 ## About Me
 
-👨‍💼 **Profession:** Solutions Architect  
-🔧 **Skills:** Python, Node.js, Next.js, Express, Rust, React.js, Microsoft Cloud, Power Automate, C#, Ruby on Rails, Java, TFLite, C++, Docker, Kubernetes, AWS Lambda, Generative AI, Computer Vision, Image Processing, Electron.js
+
+🔧 **Skills:** Go, Python, LLMs, Node.js, Next.js, Express, Rust, React.js, Microsoft Cloud, Power Automate, C#, Ruby on Rails, Java, TFLite, C++, Docker, Kubernetes, AWS Lambda, Generative AI, Computer Vision, Image Processing,
 
 I specialize in:
 - Developing scalable, secure, and efficient solutions tailored to client needs.
@@ -56,6 +56,39 @@ Voice calling agents built using AI transformers, Node.js, Python, and Next.js.
 
 
 ---
+### Musketeer Chess Neural Architecture
+Developed a native neural architecture similar to Stockfish for Musketeer Chess.
+
+- **Technologies:** [Specify technologies used]
+- **Key Features:**
+  - Implemented advanced neural networks to enhance gameplay strategy and decision-making.
+  - Optimized for the unique rules and strategies of Musketeer Chess.
+
+---
+
+### PMS Automation Messaging System
+Created a messaging system for PMS automations using LLM technology and deployed it to the cloud using serverless architecture.
+
+- **Technologies:** LLM, Serverless
+- **Key Features:**
+  - Developed an intelligent messaging system leveraging LLMs for automation.
+  - Deployed using serverless architecture for scalability and cost efficiency.
+  - Enhanced communication workflows and improved automation processes.
+
+---
+
+### Scheduler App for Freight Movers
+Developed a scheduler app for the movers or freight movers industry using LLMs and AI to automate their entire business process.
+
+- **Technologies:** LLM, AI
+- **Key Features:**
+  - Automated scheduling and business processes, reducing operational costs.
+  - Reduced monthly expenses from $8000 to $200.
+  - Improved efficiency and streamlined operations.
+
+---
+
+
 
 ### [Shredded Apes](https://www.shreddedapes.io/)
 A complete project involving staking, raffle, auction, and eCommerce ecosystem using Web3 blockchain.
